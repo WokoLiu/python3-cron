@@ -1,0 +1,1 @@
+* * * * * python /code/scripts.py >> /crontab.log 2>&1
